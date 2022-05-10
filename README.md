@@ -2,7 +2,7 @@
 
 ## Question 1:
 
-Write the stages of the **[22,27,16,2,18,6]** sequence according to the sort type.
+Write the steps of the **[22,27,16,2,18,6]** array according to the Insertion Sort.
 
 Write the Big-O notation.
 
@@ -15,13 +15,13 @@ Which case given above does the number 18 fall into after the array is sorted?
 
 ## Question 2:
 
-Write the first 4 steps of **[7,3,5,8,2,9,4,15.6]** according to Insertion Sort.
+Write the first 4 steps of **[7,3,5,8,2,9,4,15.6]** array according to Insertion Sort.
 
 ----
 
 ## Answer 1:
 
-Stages of the Insertion Sort are given in the Figure below.
+Steps of the Insertion Sort are given in the Figure below.
 
 ![Insertion_1](https://raw.githubusercontent.com/daghangunhan/Kodluyoruz_InsertionSort/main/visuals/Insertion_1.JPG)
 
@@ -40,6 +40,6 @@ The number 18 fall into **Average Case** given above after the array is sorted.
 
 ## Answer 2:
 
-Stages of the Insertion Sort are given in the Figure below.
+Steps of the Insertion Sort are given in the Figure below.
 
 ![Insertion_2](https://raw.githubusercontent.com/daghangunhan/Kodluyoruz_InsertionSort/main/visuals/Insertion_2.JPG)
