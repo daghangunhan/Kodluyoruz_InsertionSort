@@ -1,6 +1,6 @@
 # Exercise for Insertion Sort Algorithm
 
-## Question 1:
+### Question 1:
 
 Write the steps of the **[22,27,16,2,18,6]** array according to the Insertion Sort.
 
@@ -13,13 +13,13 @@ Write the Big-O notation.
 
 Which case given above does the number 18 fall into after the array is sorted?
 
-## Question 2:
+### Question 2:
 
 Write the first 4 steps of **[7,3,5,8,2,9,4,15.6]** array according to Insertion Sort.
 
 ----
 
-## Answer 1:
+### Answer 1:
 
 Steps of the Insertion Sort are given in the Figure below.
 
@@ -38,7 +38,7 @@ Number of Operations: n+(n-1)+(n-2)+...+3+2+1=n*(n+1)/2 - **O(n^2)**
 The number 18 fall into **Average Case** given above after the array is sorted.
 
 
-## Answer 2:
+### Answer 2:
 
 Steps of the Insertion Sort are given in the Figure below.
 
